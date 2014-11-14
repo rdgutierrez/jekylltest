@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Prueba
+permalink: /prueba/
 ---
 
 <div class="home">
